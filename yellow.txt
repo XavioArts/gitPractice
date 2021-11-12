@@ -1,1 +1,22 @@
 i like pink
+
+# setup for each project (git)
+# git init to create reop (railes does this for you)
+# create a repo on github
+# add the remote link to the repo (remenber to use the ssh link)
+
+# basic flow
+# make change in your code
+# add(stage) those changes (git add . or git add filename)
+# commit those changes (git commit -m'Description of what you did')
+
+# Push step: when needed
+# pull from github(if needed)
+# fix any conflicts if they exist
+# push up to github
+
+# if working with a partner
+# onw of you will create the repo, the other will clone
+
+# when a team member pushes to master, they should tell everyone to 
+# pull from master (ie git pull origin master)
