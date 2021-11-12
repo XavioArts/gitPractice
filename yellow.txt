@@ -20,3 +20,6 @@ i like pink
 
 # when a team member pushes to master, they should tell everyone to 
 # pull from master (ie git pull origin master)
+
+## Javascript you can have functions take a function as a parameter
+## In Ruby it evaluates the function then passes the result through the next function (not very helpful)
